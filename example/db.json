@@ -10,5 +10,16 @@
       "title": "Second Article",
       "content": "This is also an example."
     }
+    {
+      "tritle": "Third Article",
+      "content": "Another example",
+      "id": 3
+    },
+    {
+      "Title": "Dyes Junior",
+      "Content": "I am a Moring a School student",
+      "Age": 22,
+      "id": 4
+    }
   ]
 }
